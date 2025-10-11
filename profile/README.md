@@ -7,10 +7,11 @@
 </h1>
 
 
-## Notas
-> - Que bienvenidos y no seais hijos de puta y no se que mas
-> - Todas la paginas que se hagan aqui empieza con projectf-`ID-Proyecto`.pages.dev (se usa Cloudflare es asi:>)
-
+<p align="center">
+  <a href="https://projectf.pages.dev" target="_blank">🌐 Website</a> •
+  <a href="https://github.com/Projec-tf" target="_blank">💻 GitHub</a> •
+  <a href="https://github.com/orgs/Projec-tf/discussions" target="_blank">💬 Discussions</a>
+</p>
 
 <p align="center">
   <sub>© 2025 Projectf — creado, dirigido y desarrollado por <b>Crisutf+</b>.</sub>
