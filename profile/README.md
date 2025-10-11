@@ -12,14 +12,6 @@
 
 ---
 
-## 🧩 Qué es Projectf
-
-> **Projectf** es el núcleo que reúne todos mis proyectos.  
-> Es la base y la dirección principal donde cada creación tiene su lugar y propósito.  
-> Todo proyecto bajo su nombre forma parte del mismo legado.
-
----
-
 ## 🗂️ Estructura
 
 **Projectf**/
