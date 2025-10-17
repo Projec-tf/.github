@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://projectf.pages.dev" target="_blank">🌐 Website</a> •
   <a href="https://github.com/Projec-tf" target="_blank">💻 GitHub</a> •
-  <a href="https://github.com/orgs/Projec-tf/discussions" target="_blank">💬 Discussions</a>
 </p>
 
 <p align="center">
